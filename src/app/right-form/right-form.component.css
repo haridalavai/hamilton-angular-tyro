@@ -1,0 +1,53 @@
+
+ @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap ");
+.tab{
+    text-align: center;
+    
+    
+}
+.right__form{
+ 
+}
+
+.text{
+   text-align: center;
+}
+.tab__buttons{
+    padding:1em;
+    
+}
+
+.text__mediumClone{
+   
+    font-family: 'Open Sans', sans-serif;
+   
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: #272727;
+}
+.text__whoSays{
+    margin: 8px 0 1.5em 1px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.26px;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.85);
+}
+::ng-deep .mat-tab-list .mat-tab-labels .mat-tab-label-content {
+    font-size: 16px;
+  font-weight: bold;
+  
+  line-height: normal;
+  
+  color: #1c437e;
+  
+  }
