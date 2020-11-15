@@ -1,0 +1,21 @@
+.logo__text {
+    width: 154px;
+    height: 94px;
+    margin: 13px 0 12px 25px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;;
+    font-size: 80px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #f7f8f9;
+    position: relative;
+   
+  }
+  .logo{
+    display: flex;
+    align-items: flex-end;
+    
+     
+  }

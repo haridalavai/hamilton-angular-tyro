@@ -1,0 +1,32 @@
+form{
+    padding: 1em;
+  
+  
+} 
+input{
+    border-radius: 10px;
+    border-width: 0;
+    background-size: contain;
+    background-color: #DBE1E9;
+    
+}
+button{
+    border-radius: 0;
+    background-image: url("../../assets/images/button.svg");
+    border: none;
+    color: white;
+    height: 3.125em;
+    width: 9.9375em;
+}
+::placeholder { /* CHROME */
+    width: 152px;
+  height: 22px;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.44px;
+  color: rgba(28, 67, 126, 0.52);
+  text-transform: uppercase;
+  }
